@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>jrbeverly.baseenv</id>
+		<title>Simple Dev Environment</title>
+		<version>0.0.0</version>
+		<authors>Jonathan Beverly</authors>
+		<owners>Jonathan Beverly</owners>
+		<description>A very simple box</description>
+		<tags>Boxstarter development devenv</tags>
+		<summary>A very simple box</summary>
+		<projectUrl>https://github.com/jrbeverly</projectUrl>
+		<copyright>jrbeverly 2016</copyright>
+		<iconUrl>https://avatars1.githubusercontent.com/u/3331589?s=460&v=4</iconUrl>
+		<releaseNotes>
+			Initial Release
+		</releaseNotes>
+	</metadata>
+</package>
