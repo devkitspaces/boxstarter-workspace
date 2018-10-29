@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>jrbeverly.dev.tools</id>
+		<title>Developer Environment Essentials - Tools</title>
+		<version>0.0.0</version>
+		<authors>Jonathan Beverly</authors>
+		<owners>Jonathan Beverly</owners>
+		<description>A set of useful programming utilities that can be used in a programming environment</description>
+		<tags>Boxstarter development brwoser software development coding programming</tags>
+		<summary>Developer Environment Essentials - Tools</summary>
+		<projectUrl>https://github.com/jrbeverly</projectUrl>
+		<copyright>jrbeverly 2016</copyright>
+		<iconUrl>https://avatars1.githubusercontent.com/u/3331589?s=460&v=4</iconUrl>
+		<dependencies>
+			<dependency id='7zip.install' />
+			<dependency id='vlc' />
+			<dependency id='googlechrome' />
+			<dependency id='foxitreader' />
+			<dependency id='putty.install' />
+			<dependency id='javaruntime' />
+			<dependency id='dropkick' />
+			<dependency id='kdiff3' />
+			<dependency id='dropkick' />
+			<dependency id='sharpkeys' />
+		</dependencies>
+		<releaseNotes>
+			Initial Release
+		</releaseNotes>
+	</metadata>
+</package>
