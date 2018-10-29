@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>jrbeverly.dev.core</id>
+		<title>Developer Environment Essentials</title>
+		<version>0.0.0</version>
+		<authors>Jonathan Beverly</authors>
+		<owners>Jonathan Beverly</owners>
+		<description>A set of essential utilities that can be used in a programming environment</description>
+		<tags>Boxstarter development devenv pdf gui tooling chrome web internet browser runtime essentials</tags>
+		<summary>Developer Environment Essentials</summary>
+		<projectUrl>https://github.com/jrbeverly</projectUrl>
+		<copyright>jrbeverly 2016</copyright>
+		<iconUrl>https://avatars1.githubusercontent.com/u/3331589?s=460&v=4</iconUrl>
+		<dependencies>
+			<dependency id='malwarebytes' />
+			<dependency id='7zip.install' />
+			<dependency id='vlc' />
+			<dependency id='googlechrome' />
+			<dependency id='firefox' />
+			<dependency id='foxitreader' />
+			<dependency id='visualstudio2015community' />
+			<dependency id='visualstudiocode' />
+			<dependency id='javaruntime' />
+		</dependencies>
+		<releaseNotes>
+			Initial Release
+		</releaseNotes>
+	</metadata>
+</package>
