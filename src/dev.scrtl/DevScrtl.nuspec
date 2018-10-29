@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+	<metadata>
+		<id>jrbeverly.dev.scrtl</id>
+		<title>Developer Environment Essentials - Source Control</title>
+		<version>0.0.0</version>
+		<authors>Jonathan Beverly</authors>
+		<owners>Jonathan Beverly</owners>
+		<description>A set of useful source control utilities that can be used in a programming environment</description>
+		<tags>Boxstarter development devenv git hg scm distributed gui cli client</tags>
+		<summary>Developer Environment Essentials - Source Control</summary>
+		<projectUrl>https://github.com/jrbeverly</projectUrl>
+		<copyright>jrbeverly 2016</copyright>
+		<iconUrl>https://avatars1.githubusercontent.com/u/3331589?s=460&v=4</iconUrl>
+		<dependencies>
+			<dependency id='tortoisesvn' />
+			<dependency id='tortoisegit' />
+			<dependency id='tortoisehg' />
+			<dependency id='git.install' />
+			<dependency id='github' />
+			<dependency id='atom' />
+			<dependency id='git-credential-manager-for-windows' />
+		</dependencies>
+		<releaseNotes>
+			Initial Release
+		</releaseNotes>
+	</metadata>
+</package>
