@@ -1,0 +1,23 @@
+{
+  "slug": "boxstarter-workspace",
+  "namespace": "jrbeverly",
+  "status": "archived",
+  "icon": "icon.svg",
+  "license": {
+    "type": "MIT",
+    "content": "Jonathan Beverly <jrbeverly>"
+  },
+  "topics": [
+    "chocolatey",
+    "chocolatey-packages",
+    "nuget",
+    "packages",
+    "dependencies",
+    "windows",
+    "provisioning"
+  ],
+  "languages": [
+    "Dockerfile",
+    "PowerShell"
+  ]
+}
