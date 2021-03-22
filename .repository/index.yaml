@@ -1,0 +1,20 @@
+slug: boxstarter-workspace
+description: A set of chocolatey packages for setting up a Windows PC.
+project: devkitspaces
+namespace:
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2017
+topics: |-
+  [
+    "chocolatey",
+    "chocolatey-packages",
+    "nuget",
+    "packages",
+    "dependencies",
+    "windows",
+    "provisioning"
+  ]
